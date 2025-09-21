@@ -31,6 +31,3 @@ This project can be used by **students, professionals, and anyone** who wants to
 
 ---
 
-
-   ```bash
-   git clone https://github.com/your-username/notebook-project.git
